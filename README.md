@@ -1,3 +1,3 @@
 # MachineLearningCourseraAssignment
 Coursera Machine Learning Assignment 
-《机器学习实践》算法练习
+吴恩达coursera机器学习课程算法练习
